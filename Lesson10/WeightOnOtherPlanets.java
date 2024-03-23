@@ -15,9 +15,13 @@ public class WeightOnOtherPlanets {
         System.out.println("3. Fertos");
         System.out.println("4. Servontos");
 
-        System.out.print("Selection? ");
+        System.out.println();
+
+        System.out.print("Selection ? ");
 
         int selection = scan.nextInt();
+
+        System.out.println();
 
         switch (selection) {
             case 1:
