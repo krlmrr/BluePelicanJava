@@ -26,12 +26,16 @@ public class Calculator {
         switch (choice.toLowerCase()) {
             case "add":
                 System.out.println(STR."\{num1} plus \{num2} = \{num1 + num2}");
+                break;
             case "subtract":
                 System.out.println(STR."\{num1} minus \{num2} = \{num1 - num2}");
+                break;
             case "multiply":
                 System.out.println(STR."\{num1} times \{num2} = \{num1 * num2}");
+                break;
             case "divide":
                 System.out.println(STR."\{num1} divided by \{num2} = \{num1 / num2}");
+                break;
             default:
                 System.out.println("I don't know what you mean... ");
         }
