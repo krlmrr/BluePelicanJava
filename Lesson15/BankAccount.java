@@ -1,8 +1,8 @@
 package Lesson15;
 
 public class BankAccount {
-    public double balance;
     public String name;
+    public double balance;
 
     public BankAccount(double bal, String accountName)
     {
