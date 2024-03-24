@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson04;
 
 public class CheatingOnYourMathAssignment {
     public static void main (String[] args) {

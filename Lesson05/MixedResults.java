@@ -1,4 +1,4 @@
-package Lesson5;
+package Lesson05;
 
 public class MixedResults {
     public static void main (String[] args) {
