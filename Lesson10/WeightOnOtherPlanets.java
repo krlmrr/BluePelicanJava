@@ -39,6 +39,7 @@ public class WeightOnOtherPlanets {
             default:
                 System.out.println("I don't understand your selection...");
         }
-
+        
+        scan.close();
     }
 }

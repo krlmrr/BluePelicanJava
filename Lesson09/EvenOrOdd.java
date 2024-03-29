@@ -14,5 +14,7 @@ public class EvenOrOdd {
         } else {
             System.out.println(STR."The integer \{num} is odd.");
         }
+
+        scan.close();
     }
 }

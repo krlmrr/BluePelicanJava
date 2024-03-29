@@ -14,5 +14,7 @@ public class NameReversal {
         {
             System.out.print(name.charAt(i));
         }
+
+        scan.close();
     }
 }

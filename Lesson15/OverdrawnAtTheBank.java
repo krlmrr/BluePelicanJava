@@ -23,5 +23,7 @@ public class OverdrawnAtTheBank {
         account.withdraw(100);
 
         System.out.println(STR."The \{name} account balance is \{account.balance}");
+
+        scan.close();
     }
 }

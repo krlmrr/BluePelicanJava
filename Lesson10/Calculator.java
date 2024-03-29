@@ -39,5 +39,7 @@ public class Calculator {
             default:
                 System.out.println("I don't know what you mean... ");
         }
+
+        scan.close();
     }
 }
